@@ -1,0 +1,27 @@
+{
+  "name": "Bryan Parmelee",
+  "bio": "Frontend developer. Musician. Nature lover.",
+  "links": [
+    {
+      "name": "My portfolio site",
+      "url": "https://bryanparmelee.dev/",
+      "icon": "FaGlobe"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/bryanparmelee",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/bryanparmelee/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/bryan_parmelee",
+      "icon": "FaTwitter"
+    }
+  ]
+}
+ 
